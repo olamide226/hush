@@ -1,0 +1,24 @@
+{
+  "name": "hush — Anonymous Audience Q&A",
+  "short_name": "hush",
+  "description": "Collect anonymous audience questions with one unlisted link. No accounts, no emails, no visible question feed.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#5d3df5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
